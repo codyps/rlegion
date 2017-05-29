@@ -1,0 +1,10 @@
+[package]
+name = "rlegion"
+version = "0.1.0"
+authors = ["nyx"]
+
+[dependencies]
+serde = "*"
+serde_derive = "*"
+sha2 = "*"
+serde_json = "*"
