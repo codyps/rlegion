@@ -1,7 +1,8 @@
 [package]
 name = "rlegion"
 version = "0.1.0"
-authors = ["nyx"]
+authors = ["Cody P Schafer <dev@codyps.com>"]
+include = ["Cargo.toml", "**/*.rs"]
 
 [dependencies]
 serde = "*"
